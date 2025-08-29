@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run lint && npm run build",
+    "working_directory": "/tmp/kavia/workspace/code-generation/responsive-tic-tac-toe-5099-5108/frontend_app"
+}

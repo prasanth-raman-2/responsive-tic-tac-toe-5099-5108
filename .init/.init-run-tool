@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- -p <port> -H <host>",
+    "working_directory": "/tmp/kavia/workspace/code-generation/responsive-tic-tac-toe-5099-5108/frontend_app"
+}
